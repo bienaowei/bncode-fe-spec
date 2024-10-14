@@ -4,7 +4,7 @@ export default defineConfig4CustomTheme({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '印客学院',
+      title: 'BNCODE',
       description: '前端编码规范工程化',
     },
   },
@@ -94,13 +94,13 @@ export default defineConfig4CustomTheme({
       },
     ],
     logo: '/img/logo.png',
-    repo: 'encode-studio-fe/fe-spec',
+    repo: 'bncode-studio-fe/fe-spec',
     searchMaxSuggestions: 10,
     docsDir: 'docs',
     footer: {
       createYear: 2023,
       copyrightInfo:
-        'encode studio | <a href="https://github.com/encode-studio-fe/fe-spec" target="_blank">github</a>',
+        'bncode studio | <a href="https://github.com/encode-studio-fe/fe-spec" target="_blank">github</a>',
     },
 
     extendFrontmatter: {
