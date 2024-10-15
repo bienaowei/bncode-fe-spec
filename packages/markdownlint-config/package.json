@@ -9,15 +9,15 @@
       "lint"
     ],
     "author": "jiangchuan",
-    "homepage": "https://github.com/encode-studio-fe/fe-spec#readme",
-    "license": "ISC",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/encode-studio-fe/fe-spec.git"
-    },
-    "bugs": {
-      "url": "https://github.com/encode-studio-fe/fe-spec/issues"
-    },
+  "homepage": "https://github.com/bienaowei/bncode-fe-spec/tree/main?tab=readme-ov-file#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bienaowei/bncode-fe-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bienaowei/bncode-fe-spec/issues"
+  },
     "peerDependencies": {
       "markdownlint": "^0.28.1"
     }
