@@ -16,7 +16,7 @@
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "keywords": [
-    "encode",
+    "bncode",
     "fe spec"
   ],
   "author": "jiangchuan",

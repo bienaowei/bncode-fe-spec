@@ -6,7 +6,7 @@ tags:
     - 编码规范
 author:
     name: 澄怀
-    link: https://github.com/encode-studio-fe/fe-spec
+    link: https://github.com/bncode-studio-fe/fe-spec
 ---
 
 # Node 编码规范
@@ -39,10 +39,10 @@ const u = new URLSearchParams(s);
 const u = new URLSearchParams(s);
 
 // bad
-const { TextEncoder } = require('util');
-const u = new TextEncoder(s);
+const { Textbncoder } = require('util');
+const u = new Textbncoder(s);
 // good
-const u = new TextEncoder(s);
+const u = new Textbncoder(s);
 
 // bad
 const { TextDecoder } = require('util');

@@ -4,7 +4,7 @@
     "description": "CSS规范",
     "main": "index.js",
     "keywords": [
-      "encode",
+      "bncode",
       "style",
       "lint"
     ],

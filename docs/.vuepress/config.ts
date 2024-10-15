@@ -33,10 +33,10 @@ export default defineConfig4CustomTheme({
       {
         text: 'NPM包',
         items: [
-          { text: 'encode-fe-eslint-config', link: '/npm/eslint.md' },
-          { text: 'encode-fe-stylelint-config', link: '/npm/stylelint.md' },
-          { text: 'encode-fe-commitlint-config', link: '/npm/commitlint.md' },
-          { text: 'encode-fe-markdownlint-config', link: '/npm/markdownlint.md' },
+          { text: 'bncode-fe-eslint-config', link: '/npm/eslint.md' },
+          { text: 'bncode-fe-stylelint-config', link: '/npm/stylelint.md' },
+          { text: 'bncode-fe-commitlint-config', link: '/npm/commitlint.md' },
+          { text: 'bncode-fe-markdownlint-config', link: '/npm/markdownlint.md' },
         ],
       },
     ],
@@ -86,10 +86,10 @@ export default defineConfig4CustomTheme({
       {
         title: 'NPM包',
         children: [
-          { title: 'encode-fe-eslint-config', path: '/npm/eslint.md' },
-          { title: 'encode-fe-stylelint-config', path: '/npm/stylelint.md' },
-          { title: 'encode-fe-commitlint-config', path: '/npm/commitlint.md' },
-          { title: 'encode-fe-markdownlint-config', path: '/npm/markdownlint.md' },
+          { title: 'bncode-fe-eslint-config', path: '/npm/eslint.md' },
+          { title: 'bncode-fe-stylelint-config', path: '/npm/stylelint.md' },
+          { title: 'bncode-fe-commitlint-config', path: '/npm/commitlint.md' },
+          { title: 'bncode-fe-markdownlint-config', path: '/npm/markdownlint.md' },
         ],
       },
     ],
@@ -100,13 +100,13 @@ export default defineConfig4CustomTheme({
     footer: {
       createYear: 2023,
       copyrightInfo:
-        'bncode studio | <a href="https://github.com/encode-studio-fe/fe-spec" target="_blank">github</a>',
+        'bncode studio | <a href="https://github.com/bncode-studio-fe/fe-spec" target="_blank">github</a>',
     },
 
     extendFrontmatter: {
       author: {
         name: '澄怀',
-        link: 'https://github.com/encode-studio-fe/fe-sepc',
+        link: 'https://github.com/bncode-studio-fe/fe-sepc',
       },
     },
   },
