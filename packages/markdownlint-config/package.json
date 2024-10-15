@@ -1,14 +1,14 @@
 {
-    "name": "bncode-fe-markdownlint-config",
-    "version": "1.0.0",
-    "main": "index.json",
-    "description": "文档规范",
-    "keywords": [
-      "bncode",
-      "markdown",
-      "lint"
-    ],
-    "author": "jiangchuan",
+  "name": "bncode-fe-markdownlint-config",
+  "version": "1.0.1",
+  "main": "index.json",
+  "description": "文档规范",
+  "keywords": [
+    "bncode",
+    "markdown",
+    "lint"
+  ],
+  "author": "jiangchuan",
   "homepage": "https://github.com/bienaowei/bncode-fe-spec/tree/main?tab=readme-ov-file#readme",
   "license": "ISC",
   "repository": {
@@ -18,8 +18,7 @@
   "bugs": {
     "url": "https://github.com/bienaowei/bncode-fe-spec/issues"
   },
-    "peerDependencies": {
-      "markdownlint": "^0.28.1"
-    }
+  "peerDependencies": {
+    "markdownlint": "^0.28.1"
   }
-  
+}

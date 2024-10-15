@@ -1,6 +1,6 @@
 {
   "name": "bncode-fe-commitlint-config",
-  "version": "0.0.5",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "Git规范",
   "keywords": [
