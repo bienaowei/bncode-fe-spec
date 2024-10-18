@@ -1,7 +1,7 @@
 {
   "name": "bncode-fe-spec",
-  "private": true,
-  "description": "前端编码规范工程化", 
+  "private": false,
+  "description": "前端编码规范工程化",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "prepare": "husky install",
@@ -44,7 +44,12 @@
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "workspaces": [  
-    "packages/*"  
-  ]  
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  }
 }
